@@ -9,7 +9,8 @@ You are given an API bool isBadVersion(version) which returns whether version is
 
 Example 1:
 
-```Input: n = 5, bad = 4
+```
+Input: n = 5, bad = 4
 Output: 4
 Explanation:
 call isBadVersion(3) -> false
@@ -19,7 +20,8 @@ Then 4 is the first bad version.
 ```
 Example 2:
 
-```Input: n = 1, bad = 1
+```
+Input: n = 1, bad = 1
 Output: 1
 ```
 
