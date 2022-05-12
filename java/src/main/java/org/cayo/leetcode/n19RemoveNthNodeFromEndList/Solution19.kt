@@ -1,4 +1,4 @@
-package org.cayo.leetcode.`19_RemoveNthNodeFromEndList`
+package org.cayo.leetcode.n19RemoveNthNodeFromEndList
 
 import org.cayo.leetcode.common.ListNode
 import java.util.LinkedList

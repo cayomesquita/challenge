@@ -1,4 +1,4 @@
-package org.cayo.leetcode.`167_TwoSumII-InputArrayIsSorted`
+package org.cayo.leetcode.n167TwoSumIIInputArrayIsSorted
 
 class Solution167 {
     fun twoSum(numbers: IntArray, target: Int): IntArray {

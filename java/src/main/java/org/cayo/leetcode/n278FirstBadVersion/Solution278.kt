@@ -1,4 +1,4 @@
-package org.cayo.leetcode.`278_firstBadVersion`
+package org.cayo.leetcode.n278FirstBadVersion
 
 class Solution278 {
     fun firstBadVersion(n: Int) : Int {

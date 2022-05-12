@@ -1,4 +1,4 @@
-package org.cayo.leetcode.`3_LongestSubstringWithoutRepeatingCharacters`
+package org.cayo.leetcode.n3LongestSubstringWithoutRepeatingCharacters
 
 class Solution3 {
     fun lengthOfLongestSubstring(s: String): Int {

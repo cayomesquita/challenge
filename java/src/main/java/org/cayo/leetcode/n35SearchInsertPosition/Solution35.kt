@@ -1,4 +1,4 @@
-package org.cayo.leetcode.`35_searchInsertPosition`
+package org.cayo.leetcode.n35SearchInsertPosition
 
 class Solution35 {
     fun searchInsert(nums: IntArray, target: Int): Int {

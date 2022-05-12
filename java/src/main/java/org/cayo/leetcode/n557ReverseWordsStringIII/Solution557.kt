@@ -1,4 +1,4 @@
-package org.cayo.leetcode.`557_ReverseWordsStringIII`
+package org.cayo.leetcode.n557ReverseWordsStringIII
 
 class Solution557 {
     fun reverseWords(s: String): String {

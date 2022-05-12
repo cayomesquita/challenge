@@ -1,4 +1,4 @@
-package org.cayo.leetcode.`876_MiddleLinkedList`
+package org.cayo.leetcode.n876MiddleLinkedList
 
 import org.cayo.leetcode.common.ListNode
 

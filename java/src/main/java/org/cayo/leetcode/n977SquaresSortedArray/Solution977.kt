@@ -1,4 +1,4 @@
-package org.cayo.leetcode.`977_squaresSortedArray`
+package org.cayo.leetcode.n977SquaresSortedArray
 
 class Solution977 {
     fun sortedSquares(nums: IntArray): IntArray {

@@ -1,4 +1,4 @@
-package org.cayo.leetcode.`189_RotateArray`
+package org.cayo.leetcode.n189RotateArray
 
 class Solution189 {
     fun rotate(nums: IntArray, _k: Int): Unit {

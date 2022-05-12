@@ -1,4 +1,4 @@
-package org.cayo.leetcode.`344_ReverseString`
+package org.cayo.leetcode.n344ReverseString
 
 class Solution344 {
     fun reverseString(s: CharArray): Unit {

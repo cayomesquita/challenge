@@ -1,4 +1,4 @@
-package org.cayo.leetcode.`283_MoveZeroes`
+package org.cayo.leetcode.n283MoveZeroes
 
 class Solution283 {
     fun moveZeroes(nums: IntArray): Unit {
